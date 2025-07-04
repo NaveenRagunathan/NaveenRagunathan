@@ -16,6 +16,13 @@
 
 ---
 
+
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NaveenRagunathan"/></a>.
+</p>
+
+---
+
 ## ⚒️ Tech Arsenal
 
 **Languages:**  
@@ -78,9 +85,6 @@ These projects are WIPs — feel free to follow along or even contribute:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenRagunathan&layout=compact&theme=radical" />
 </p>
 
-<p align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=NaveenRagunathan"/></a>.
-</p>
 ---
 
 ## 🧩 Random Dev Quote
