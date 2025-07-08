@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Naveen</h1>
+<h1 align="center">Hey there 😎, I'm Naveen</h1>
 <h3 align="center">Back-End Engineer · OSS Contributor · Curious Technologist</h3>
 
 <p align="center">
