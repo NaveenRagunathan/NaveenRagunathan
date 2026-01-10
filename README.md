@@ -37,19 +37,6 @@
 
 ---
 
-## 🔍 Featured Projects (Real Work, Real Impact)
-
-### 🧰 [`spring-api-starter`](https://github.com/NaveenRagunathan/spring-api-starter)
-> A boilerplate for spinning up clean Spring Boot APIs in minutes  
-🚀 Docker-ready · JWT Auth · Exception Handling · PostgreSQL  
-
-### 🤖 [`ml-service-prototype`](https://github.com/NaveenRagunathan/ml-service-prototype)
-> Microservice to run ML models via REST · Preprocessing, inference & response  
-Built with FastAPI + Docker + Pandas + Scikit-learn  
-
-### 🌐 [`devtools-insights`](https://github.com/NaveenRagunathan/devtools-insights)
-> CLI + Web Dashboard for developers to log, monitor, and analyze their local builds  
-
 > _Have an idea or bug? File an issue — let’s build something great._
 
 ---
