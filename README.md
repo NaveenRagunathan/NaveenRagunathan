@@ -33,7 +33,3 @@
 📚 *– You, after your 15th Stack Overflow tab*
 
 ---
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=NaveenRagunathan&icon=0&color=6" alt="Profile Views" />
-</p>
