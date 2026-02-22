@@ -24,7 +24,6 @@
 
 > DM me if you’re building in backend, infra, or AI and want to collaborate!
 
---
 ---
 
 ## 🧩 Random Dev Quote
